@@ -4,7 +4,7 @@
     <list default="true" id="7bc1b550-951e-4673-a2b3-d1d12c335017" name="Default" comment="" />
     <ignored path="Pixel.kg.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="7bc1b550-951e-4673-a2b3-d1d12c335017" time="1413491382711" ignored="false" />
+    <file path="/index.html" changelist="7bc1b550-951e-4673-a2b3-d1d12c335017" time="1413493340963" ignored="false" />
     <file path="/templatemo_style.css" changelist="7bc1b550-951e-4673-a2b3-d1d12c335017" time="1413054780934" ignored="false" />
     <file path="$USER_HOME$/WebstormProjects/PHP/index.html" changelist="7bc1b550-951e-4673-a2b3-d1d12c335017" time="1413113924458" ignored="false" />
     <file path="$USER_HOME$/WebstormProjects/PHP/hello.php" changelist="7bc1b550-951e-4673-a2b3-d1d12c335017" time="1413113991025" ignored="false" />
@@ -30,7 +30,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="347" column="125" selection-start="20831" selection-end="20831" vertical-scroll-proportion="0.05928854">
+            <state line="198" column="35" selection-start="9778" selection-end="9785" vertical-scroll-proportion="5.3162055">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
@@ -366,7 +366,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="347" column="125" selection-start="20831" selection-end="20831" vertical-scroll-proportion="0.05928854">
+        <state line="198" column="35" selection-start="9778" selection-end="9785" vertical-scroll-proportion="5.3162055">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
