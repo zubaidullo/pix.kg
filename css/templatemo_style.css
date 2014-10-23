@@ -81,11 +81,13 @@ h3 {
 }
 
 .templatemo_footer { 
-	float: right; 
+
 	padding: 0px 0px 0px 0px; 
 	font-size: 14px; 
 	color: #b5b5b5;
-	margin: 30px 40px 20px 0px;
+	margin: 30px auto;
+	text-align: center;
+
 }
 
 .templatemo_mainservice	{
