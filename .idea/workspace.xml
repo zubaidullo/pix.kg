@@ -4,12 +4,12 @@
     <list default="true" id="7bc1b550-951e-4673-a2b3-d1d12c335017" name="Default" comment="" />
     <ignored path="Pixel.kg.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="7bc1b550-951e-4673-a2b3-d1d12c335017" time="1413998571798" ignored="false" />
-    <file path="/templatemo_style.css" changelist="7bc1b550-951e-4673-a2b3-d1d12c335017" time="1413054780934" ignored="false" />
+    <file path="/index.html" changelist="7bc1b550-951e-4673-a2b3-d1d12c335017" time="1414090476432" ignored="false" />
+    <file path="/templatemo_style.css" changelist="7bc1b550-951e-4673-a2b3-d1d12c335017" time="1414090225520" ignored="false" />
     <file path="$USER_HOME$/WebstormProjects/PHP/index.html" changelist="7bc1b550-951e-4673-a2b3-d1d12c335017" time="1413113924458" ignored="false" />
     <file path="$USER_HOME$/WebstormProjects/PHP/hello.php" changelist="7bc1b550-951e-4673-a2b3-d1d12c335017" time="1413113991025" ignored="false" />
     <file path="$USER_HOME$/AppData/Local/Temp/share42.js" changelist="7bc1b550-951e-4673-a2b3-d1d12c335017" time="1413998402423" ignored="false" />
-    <file path="/share42.js" changelist="7bc1b550-951e-4673-a2b3-d1d12c335017" time="1413998495991" ignored="false" />
+    <file path="/share42.js" changelist="7bc1b550-951e-4673-a2b3-d1d12c335017" time="1414089877743" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,27 +32,20 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="84" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.26574802">
-              <folding />
+            <state line="393" column="13" selection-start="21479" selection-end="21479" vertical-scroll-proportion="0.21829522">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#!!top" expanded="true" />
+                <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#3;tag#body#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="share42.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/share42.js">
+      <file leaf-file-name="templatemo_style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/templatemo_style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="298" selection-start="341" selection-end="341" vertical-scroll-proportion="-0.68">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <marker date="1413998398687" expanded="false" signature="6068:6120" placeholder="..." />
-                <marker date="1413998398687" expanded="false" signature="6147:6238" placeholder="..." />
-                <marker date="1413998398687" expanded="true" signature="6382:6485" placeholder="{...}" />
-                <marker date="1413998398687" expanded="true" signature="6509:6578" placeholder="{...}" />
-                <marker date="1413998398687" expanded="true" signature="6595:7063" placeholder="{...}" />
-                <marker date="1413998398687" expanded="false" signature="6663:7053" placeholder="data:image/png" />
-                <marker date="1413998398687" expanded="true" signature="7087:7495" placeholder="{...}" />
-                <marker date="1413998398687" expanded="false" signature="7103:7493" placeholder="data:image/png" />
-              </folding>
+            <state line="373" column="69" selection-start="10453" selection-end="10453" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -72,6 +65,7 @@
         <option value="$PROJECT_DIR$/Pixel.kg/index.html" />
         <option value="$PROJECT_DIR$/js/ok.js" />
         <option value="$PROJECT_DIR$/js/share42.js" />
+        <option value="$PROJECT_DIR$/css/templatemo_style.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -108,6 +102,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -156,7 +151,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,6 +167,7 @@
       <recent name="D:\pix.kg\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pix.kg\js" />
       <recent name="D:\pix.kg\images" />
     </key>
   </component>
@@ -215,7 +210,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="30" width="1354" height="730" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -298,8 +293,31 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="67" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#!!top" expanded="true" />
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#3;tag#body#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="84" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#!!top" expanded="true" />
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#3;tag#body#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="45" column="51" selection-start="1576" selection-end="1576" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#!!top" expanded="true" />
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#3;tag#body#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -310,25 +328,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/share42.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="298" selection-start="341" selection-end="341" vertical-scroll-proportion="-0.68">
+        <state line="27" column="19" selection-start="1457" selection-end="1457" vertical-scroll-proportion="0.9053255">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1413998398687" expanded="false" signature="6068:6120" placeholder="..." />
-            <marker date="1413998398687" expanded="false" signature="6147:6238" placeholder="..." />
-            <marker date="1413998398687" expanded="true" signature="6382:6485" placeholder="{...}" />
-            <marker date="1413998398687" expanded="true" signature="6509:6578" placeholder="{...}" />
-            <marker date="1413998398687" expanded="true" signature="6595:7063" placeholder="{...}" />
-            <marker date="1413998398687" expanded="false" signature="6663:7053" placeholder="data:image/png" />
-            <marker date="1413998398687" expanded="true" signature="7087:7495" placeholder="{...}" />
-            <marker date="1413998398687" expanded="false" signature="7103:7493" placeholder="data:image/png" />
+            <marker date="1414089905619" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/templatemo_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="373" column="69" selection-start="10453" selection-end="10453" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="84" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.26574802">
-          <folding />
+        <state line="393" column="13" selection-start="21479" selection-end="21479" vertical-scroll-proportion="0.21829522">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#!!top" expanded="true" />
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#3;tag#body#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

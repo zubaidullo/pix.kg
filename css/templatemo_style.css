@@ -371,7 +371,7 @@ map {
 	.templatemo_frame	{ height: 406px; padding: 0px 30px; }
 	.templatemo_link { height: 150px; line-height: 37px; padding: 0px; }
 	/*.container { left: 50%; margin-left: -585px; }*/
-	.logocontainer	{ width: 1140px; padding: 0px 30px; margin: 0 auto; }
+	.logocontainer	{ width: 1140px; padding: 0px 30px; margin: -24px auto; }
 	.templatemo_insideportfolio	{ height: 316px; }
 	.templatemo_leftgap_about .templatemo_link { height: 142px; line-height: 142px; padding: 0px; }
 	.templatemo_linkservice, .templatemo_linkcontact { height: 145px; line-height: 145px; padding: 0px; }
