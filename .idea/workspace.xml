@@ -32,8 +32,10 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="393" column="13" selection-start="21479" selection-end="21479" vertical-scroll-proportion="0.21829522">
+            <state line="47" column="0" selection-start="1536" selection-end="1556" vertical-scroll-proportion="0.36417323">
               <folding>
+                <element signature="tag#div#0;tag#div#0;tag#body#0" expanded="false" />
+                <element signature="tag#div#0;tag#div#1;tag#body#0" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#!!top" expanded="true" />
                 <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#3;tag#body#0" expanded="false" />
               </folding>
@@ -111,44 +113,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pixel.kg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pix.kg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pixel.kg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pix.kg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Pixel.kg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pix.kg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -159,8 +123,8 @@
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -210,7 +174,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="30" width="1354" height="730" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -293,44 +257,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="67" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0">
+        <state line="393" column="13" selection-start="21479" selection-end="21479" vertical-scroll-proportion="0.0">
           <folding>
+            <element signature="tag#div#0;tag#div#0;tag#body#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#1;tag#body#0" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#!!top" expanded="true" />
             <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#3;tag#body#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="84" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#!!top" expanded="true" />
-            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#3;tag#body#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="51" selection-start="1576" selection-end="1576" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#!!top" expanded="true" />
-            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#3;tag#body#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Pix(Documentation)/Новая папка/Pixel.kg/Pixel.kg/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.2332015" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/share42.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="19" selection-start="1457" selection-end="1457" vertical-scroll-proportion="0.9053255">
-          <folding>
-            <marker date="1414089905619" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -344,8 +276,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="393" column="13" selection-start="21479" selection-end="21479" vertical-scroll-proportion="0.21829522">
+        <state line="5" column="67" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0">
           <folding>
+            <element signature="tag#div#0;tag#div#0;tag#body#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#1;tag#body#0" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#!!top" expanded="true" />
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#3;tag#body#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="84" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="tag#div#0;tag#div#0;tag#body#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#1;tag#body#0" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#!!top" expanded="true" />
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#3;tag#body#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="51" selection-start="1576" selection-end="1576" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="tag#div#0;tag#div#0;tag#body#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#1;tag#body#0" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#!!top" expanded="true" />
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#3;tag#body#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Pix(Documentation)/Новая папка/Pixel.kg/Pixel.kg/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.2332015" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/share42.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="19" selection-start="1457" selection-end="1457" vertical-scroll-proportion="0.9053255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/templatemo_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="373" column="69" selection-start="10453" selection-end="10453" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="0" selection-start="1536" selection-end="1556" vertical-scroll-proportion="0.36417323">
+          <folding>
+            <element signature="tag#div#0;tag#div#0;tag#body#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#1;tag#body#0" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#!!top" expanded="true" />
             <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#3;tag#body#0" expanded="false" />
           </folding>
